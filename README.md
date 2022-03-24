@@ -1,4 +1,4 @@
-                               Olá eu sou o Gabriel Paulino, Estudante do curso de webdev da Etec MCM.
+                               Olá eu sou o Gabriel Paulino, Estudante do curso de dev front-end da Etec MCM.
                                                   
 <div align="center">
   <a href="https://github.com/projetosgppag">
