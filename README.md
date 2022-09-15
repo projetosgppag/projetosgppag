@@ -7,6 +7,8 @@
 <div style="display: inline_block "><br>
   <img aling="center" alt="Html-5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img aling="center" alt"Css" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+  <img aling="center" alt"Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img aling="center" alt"Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img aling="right" alt"fantasminha" heigh="100" width="100" src="https://i0.wp.com/www.edm2.com.br/blog/wp-content/uploads/2021/12/pixelart-480x480.jpg?resize=300%2C300&ssl=1">
   </div>
   <div>
