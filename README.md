@@ -1,4 +1,4 @@
-                               Olá eu sou o Gabriel Paulino, Estudo na ETEC MCM, sou um desenvolvedor .net
+                               Olá eu sou o Gabriel Paulino, Estudo na ETEC MCM, sou um desenvolvedor back-end
                                                   
 <div align="center">
   <a href="https://github.com/projetosgppag">
